@@ -1,6 +1,5 @@
 import pandas as pd
 import numpy as np
-import random
 from datetime import datetime, timedelta
 
 num_columns = int(input("Enter amount of columns: "))
